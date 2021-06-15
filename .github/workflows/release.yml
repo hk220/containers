@@ -25,4 +25,4 @@ jobs:
           context: ./snmpd
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:5.8
+            ghcr.io/${{ github.repository_owner }}/snmpd:5.8

@@ -17,4 +17,4 @@ jobs:
         with:
           context: ./node
           push: true
-          tags: node:16-jammy
+          tags: ghcr.io/hk220/node:16-jammy

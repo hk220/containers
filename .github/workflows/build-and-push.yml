@@ -17,4 +17,4 @@ jobs:
         with:
           context: ./node
           push: true
-          tags: 16-jammy
+          tags: node:16-jammy
